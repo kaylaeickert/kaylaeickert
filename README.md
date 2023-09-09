@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on improving my life circumstances.
+I'm currently learning how to write code.
+How to reach me: kayla.eickert@gmail.com
+Pronouns: She/Her
+Fun fact: I love to watch anything about cars.
