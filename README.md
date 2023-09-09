@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm currently working on improving my life circumstances
-by learning how to write code.
-How to reach me: kayla.eickert@gmail.com
-Pronouns: She/Her
+by learning how to write code.  
+How to reach me: kayla.eickert@gmail.com  
+Pronouns: She/Her  
 Fun fact: I love to watch anything about cars.
