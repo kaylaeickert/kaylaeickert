@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-Writing code. 
+Writing code.   
 How to reach me: kayla.eickert@gmail.com  
 Pronouns: She/Her  
