@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on improving my life circumstances
-by learning how to write code.  
+
+Writing code. 
 How to reach me: kayla.eickert@gmail.com  
 Pronouns: She/Her  
-Fun fact: I love to watch anything about cars.
